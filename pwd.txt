@@ -1,0 +1,16 @@
+https://jht2qg107sde1.reverieb.com/agent/agent
+这个登陆上去了。
+账号是： landyo
+密码： 123qwe
+
+
+
+
+http://xhtdsupport.com/getPlayersByLastLoginTime/0/1
+alen  123qwe
+这是账户跟密码
+
+
+198.98.123.114 -118 koma  aewt@!123
+这是服务器，用户名跟密码
+整体逻辑：这套程序从真实后台抓取数据，展现到辅助后台
